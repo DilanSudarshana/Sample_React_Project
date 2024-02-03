@@ -22,7 +22,7 @@ const MainPage = () => {
       setTitle("");
       setDesc("");
     }
-    alert("Fill the input fields");
+    
   };
 
   return (
